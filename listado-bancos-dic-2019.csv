@@ -1,84 +1,81 @@
-CENTRO BANCARIO INTERNACIONAL,,,,,,,,
-Diciembre 2019 ,,,,,,,,
-BANCOS,Fecha de Inicio de Operaciones,Procedencia de Capital,Casa Matriz y Sucursales,Cajeros Autom ticos ATM ,Agencias y otros establecimientos,LICENCIA,TIPO BANCO,Comentario
-Banco Nacional de Panam ,Oct -1904,Panam ,90,269,3,General,Banco Oficial,S/C
-Caja de Ahorros,Jul - 1934,Panam ,59,260,1,General,Banco Oficial,S/C
-"Citibank,N.A. Sucursal Panam  ",Ago -  1904,E.U.A.,3,0,0,General,Banco Extranjero,S/C
-"Banco Davivienda (Panam ), S.A.(14)",Dic  -  1966,Colombia,7,11,0,General,Banco Extranjero,"Cambio de raz¢n social en Agosto  2012 antes Bancaf‚ (Panam ) ,S.A."
+BANCOS,Fecha de Inicio de Operaciones,Procedencia de Capital,Casa Matriz y Sucursales,Cajeros AutomÂ ticos ATM ,Agencias y otros establecimientos,LICENCIA,TIPO BANCO,Comentario
+Banco Nacional de PanamÂ ,Oct -1904,PanamÂ ,90,269,3,General,Banco Oficial,S/C
+Caja de Ahorros,Jul - 1934,PanamÂ ,59,260,1,General,Banco Oficial,S/C
+"Citibank,N.A. Sucursal PanamÂ  ",Ago -  1904,E.U.A.,3,0,0,General,Banco Extranjero,S/C
+"Banco Davivienda (PanamÂ ), S.A.(14)",Dic  -  1966,Colombia,7,11,0,General,Banco Extranjero,"Cambio de razÂ¢n social en Agosto  2012 antes Bancafâ€š (PanamÂ ) ,S.A."
 Mega International Commercial Bank CO.LTD,Ago -  1974,Taiwan,1,0,0,General,Banco Extranjero,S/C
-The Bank of Nova Scotia,Nov -  1974,Canad ,18,75,1,General,Banco Extranjero,S/C
+The Bank of Nova Scotia,Nov -  1974,CanadÂ ,18,75,1,General,Banco Extranjero,S/C
 "Banco Internacional de Costa Rica, S.A. ",Sep -  1976,Costa Rica,2,2,0,General,Banco Extranjero,S/C
 "Banco Latinoamericano de Comercio Exterior,S.A.(BLADEX)",Ene -  1978,Multinacional,1,0,0,General,Banco Extranjero,S/C
-"Mercantil Banco, S.A.(8)",Mar -  1978,Venezuela,3,3,1,General,Banco Extranjero,"Cambio de raz¢n social antes Banco del Centro, S.A.Feb.2008"
-"Pacific Bank, S.A.",Jul  -  1980,Ecuador,1,0,0,General,Banco Extranjero,Cambi¢ de Licencia Internacional a Licencia General en febrero 2013.
-Keb Hana Bank (19),Dic  -  1980,Corea del Sur,1,0,0,General,Banco Extranjero,"cambio de raz¢n social en septiembre  2015 antes Korea Exchange Bank, LtD"
-"Banesco, S.A. (2)",May  - 1993,Venezuela,22,27,5,General,Banco Extranjero,Cambi¢ de Licencia Internacional a Licencia General en Febrero de 2007.
-BCT Bank International (10),Mar -  1994,Costa Rica,7,7,0,General,Banco Extranjero,Cambi¢ de Licencia Internacional a Licencia General en Septiembre de 2008.
-"Bank of China ,Panam  Branch",Jul  -  1994,China,4,0,0,General,Banco Extranjero,S/C
+"Mercantil Banco, S.A.(8)",Mar -  1978,Venezuela,3,3,1,General,Banco Extranjero,"Cambio de razÂ¢n social antes Banco del Centro, S.A.Feb.2008"
+"Pacific Bank, S.A.",Jul  -  1980,Ecuador,1,0,0,General,Banco Extranjero,CambiÂ¢ de Licencia Internacional a Licencia General en febrero 2013.
+Keb Hana Bank (19),Dic  -  1980,Corea del Sur,1,0,0,General,Banco Extranjero,"cambio de razÂ¢n social en septiembre  2015 antes Korea Exchange Bank, LtD"
+"Banesco, S.A. (2)",May  - 1993,Venezuela,22,27,5,General,Banco Extranjero,CambiÂ¢ de Licencia Internacional a Licencia General en Febrero de 2007.
+BCT Bank International (10),Mar -  1994,Costa Rica,7,7,0,General,Banco Extranjero,CambiÂ¢ de Licencia Internacional a Licencia General en Septiembre de 2008.
+"Bank of China ,PanamÂ  Branch",Jul  -  1994,China,4,0,0,General,Banco Extranjero,S/C
 "BAC International Bank,  Inc. (16)",Mar -  1996,Colombia,36,235,2,General,Banco Extranjero,Fue adquirido por grupo Aval de Colombia
 ST.Georges Bank & Company Inc.,Mar -  2002,Nicaragua,13,14,0,General,Banco Extranjero,S/C
-"Scotiabank (Panam ), S.A. (20)",Jun -   2003,Canad ,1,0,0,General,Banco Extranjero,cambio de raz¢n social en febrero  2016 antes Citibank Panam 
-"Banco Azteca (Panam ), S.A.",Mar -  2005,M‚xico,7,0,11,General,Banco Extranjero,S/C
-"Banco Pichincha Panam , S.A (3)",May - 2005,Ecuador,1,0,1,General,Banco Extranjero,Cambi¢ de Licencia Internacional a Licencia General en Junio de 2006.
+"Scotiabank (PanamÂ ), S.A. (20)",Jun -   2003,CanadÂ ,1,0,0,General,Banco Extranjero,cambio de razÂ¢n social en febrero  2016 antes Citibank PanamÂ 
+"Banco Azteca (PanamÂ ), S.A.",Mar -  2005,Mâ€šxico,7,0,11,General,Banco Extranjero,S/C
+"Banco Pichincha PanamÂ , S.A (3)",May - 2005,Ecuador,1,0,1,General,Banco Extranjero,CambiÂ¢ de Licencia Internacional a Licencia General en Junio de 2006.
 "FPB BANK, INC.",May - 2005,Brasil,1,0,0,General,Banco Extranjero,S/C
-"BANISI, S.A. (12)",Mar -  2008,Ecuador,2,6,0,General,Banco Extranjero,"Cambio de raz¢n social en septiembre  2011 antes Banco de Guayaquil, S.A. "
-"BBP Bank, S.A.  (15)",             May -  2009           ,Ecuador,1,0,0,General,Banco Extranjero,Inici¢ como Banco Bolivariano (Panam ) y en octubre 2013 cambi¢ de nombre 
-Banco Lafise Panam  S.A.,Mar -  2010,Nicaragua,5,0,0,General,Banco Extranjero,S/C
-"The Bank of Nova Scotia (Panam ), S.A.",Oct -  2010,Canad ,1,0,0,General,Banco Extranjero,S/C
+"BANISI, S.A. (12)",Mar -  2008,Ecuador,2,6,0,General,Banco Extranjero,"Cambio de razÂ¢n social en septiembre  2011 antes Banco de Guayaquil, S.A. "
+"BBP Bank, S.A.  (15)",             May -  2009           ,Ecuador,1,0,0,General,Banco Extranjero,IniciÂ¢ como Banco Bolivariano (PanamÂ ) y en octubre 2013 cambiÂ¢ de nombre 
+Banco Lafise PanamÂ  S.A.,Mar -  2010,Nicaragua,5,0,0,General,Banco Extranjero,S/C
+"The Bank of Nova Scotia (PanamÂ ), S.A.",Oct -  2010,CanadÂ ,1,0,0,General,Banco Extranjero,S/C
 Allbank Corp.,Jul -   2012,Venezuela,2,0,0,General,Banco Extranjero,S/C
 "Bancolombia, S.A.",Nov -  2012,Colombia,1,0,0,General,Banco Extranjero,S/C
-"Banco Ficohsa (Panam ), S.A.",May - 2011,Honduras,3,3,7,General,Banco Extranjero,S/C
-"Banco de Bogot , S.A.",Jul -   2013 ,Colombia,1,0,0,General,Banco Extranjero,S/C
+"Banco Ficohsa (PanamÂ ), S.A.",May - 2011,Honduras,3,3,7,General,Banco Extranjero,S/C
+"Banco de BogotÂ , S.A.",Jul -   2013 ,Colombia,1,0,0,General,Banco Extranjero,S/C
 "Banistmo, S.A. (1)",Oct .- 2013,Colombia,49,348,6,General,Banco Extranjero,Adquirio activo y pasivos del HSBC Bank Oct. 2013
 "Bi-Bank, S.A.",Ene -  2016,Guatemala,1,2,0,General,Banco Extranjero,S/C
-"Atlas Bank (Panam ), S.A.",Oct .- 2017,E.U.A.,1,0,0,General,Banco Extranjero,S/C
-"Banco General, S.A.",Abr -  1955,Panam ,75,627,22,General,Banco Privado Paname¤o,S/C
-"Towerbank International, Inc.",Oct -  1971,Panam ,7,12,4,General,Banco Privado Paname¤o,S/C
-"Multibank, Inc.",May  - 1990,Panam ,29,97,7,General,Banco Privado Paname¤o,S/C
-"Metrobank, S.A.",Sep  - 1991,Panam ,4,10,0,General,Banco Privado Paname¤o,S/C
-"Banco Aliado, S.A.",Jul   -  1992,Panam ,4,2,0,General,Banco Privado Paname¤o,S/C
-"Credicorp Bank, S.A.", Jun   - 1993,Panam ,20,47,10,General,Banco Privado Paname¤o,S/C
-Global Bank Corporation,Jun  -  1994,Panam ,40,145,38,General,Banco Privado Paname¤o,S/C
-MMG Bank Corporation,Mar  -  2003,Panam ,1,1,0,General,Banco Privado Paname¤o,S/C
-"Banco Delta, S.A. ",Jul  -  2006,Panam ,8,2,0,General,Banco Privado Paname¤o,S/C
-"Capital Bank, Inc.",Ene  -  2008,Panam ,6,39,1,General,Banco Privado Paname¤o,S/C
-"Banco Panam , S.A.",Abr  -  2008,Panam ,7,16,2,General,Banco Privado Paname¤o,S/C
-"Banco Prival, S.A.",Mar -  2010,Panam ,3,0,0,General,Banco Privado Paname¤o,S/C
-"Banco La Hipotecaria, S.A.",Jun  -  2010,Panam ,1,0,4,General,Banco Privado Paname¤o,S/C
-"Unibank, S.A",Dic  -  2010,Panam ,3,2,0,General,Banco Privado Paname¤o,S/C
-Canal Bank S.A.  , Oct  -  2014,Panam ,12,28,1,General,Banco Privado Paname¤o,S/C
-"Banco de Bogot , (Panam ), S.A. ",Ago -  1967,Colombia,1,0,0,Internacional,,S/C
-"Bancolombia (Panam ), S.A.",Abr -   1973,Colombia,1,0,0,Internacional,,S/C
-Banco de la Naci¢n Argentina,Dic  -  1977,Argentina,1,0,0,Internacional,,S/C
-"Banco de Occidente (Panam ), S.A.",Jun -   1982,Colombia,1,0,0,Internacional,,S/C
+"Atlas Bank (PanamÂ ), S.A.",Oct .- 2017,E.U.A.,1,0,0,General,Banco Extranjero,S/C
+"Banco General, S.A.",Abr -  1955,PanamÂ ,75,627,22,General,Banco Privado PanameÂ¤o,S/C
+"Towerbank International, Inc.",Oct -  1971,PanamÂ ,7,12,4,General,Banco Privado PanameÂ¤o,S/C
+"Multibank, Inc.",May  - 1990,PanamÂ ,29,97,7,General,Banco Privado PanameÂ¤o,S/C
+"Metrobank, S.A.",Sep  - 1991,PanamÂ ,4,10,0,General,Banco Privado PanameÂ¤o,S/C
+"Banco Aliado, S.A.",Jul   -  1992,PanamÂ ,4,2,0,General,Banco Privado PanameÂ¤o,S/C
+"Credicorp Bank, S.A.", Jun   - 1993,PanamÂ ,20,47,10,General,Banco Privado PanameÂ¤o,S/C
+Global Bank Corporation,Jun  -  1994,PanamÂ ,40,145,38,General,Banco Privado PanameÂ¤o,S/C
+MMG Bank Corporation,Mar  -  2003,PanamÂ ,1,1,0,General,Banco Privado PanameÂ¤o,S/C
+"Banco Delta, S.A. ",Jul  -  2006,PanamÂ ,8,2,0,General,Banco Privado PanameÂ¤o,S/C
+"Capital Bank, Inc.",Ene  -  2008,PanamÂ ,6,39,1,General,Banco Privado PanameÂ¤o,S/C
+"Banco PanamÂ , S.A.",Abr  -  2008,PanamÂ ,7,16,2,General,Banco Privado PanameÂ¤o,S/C
+"Banco Prival, S.A.",Mar -  2010,PanamÂ ,3,0,0,General,Banco Privado PanameÂ¤o,S/C
+"Banco La Hipotecaria, S.A.",Jun  -  2010,PanamÂ ,1,0,4,General,Banco Privado PanameÂ¤o,S/C
+"Unibank, S.A",Dic  -  2010,PanamÂ ,3,2,0,General,Banco Privado PanameÂ¤o,S/C
+Canal Bank S.A.  , Oct  -  2014,PanamÂ ,12,28,1,General,Banco Privado PanameÂ¤o,S/C
+"Banco de BogotÂ , (PanamÂ ), S.A. ",Ago -  1967,Colombia,1,0,0,Internacional,,S/C
+"Bancolombia (PanamÂ ), S.A.",Abr -   1973,Colombia,1,0,0,Internacional,,S/C
+Banco de la NaciÂ¢n Argentina,Dic  -  1977,Argentina,1,0,0,Internacional,,S/C
+"Banco de Occidente (PanamÂ ), S.A.",Jun -   1982,Colombia,1,0,0,Internacional,,S/C
 Popular Bank  Ltd.Inc.,Ago -  1983,R. Dominicana,1,0,0,Internacional,,S/C
-Atlantic Security Bank,Dic -   1984,Caym n,1,0,0,Internacional,,S/C
-"Austrobank Overseas (Panam ), S.A.",Ago -  1995,Ecuador,2,0,0,Internacional,,S/C
-Inteligo Bank Ltd. (4),Ene -  1997,Per£ ,1,0,0,Internacional,,S/C
-ITAU (Panam ) S.A. (21),Abr  -  1998,Brasil,1,0,0,Internacional,,Antes Interbank Overseas Ltd. hasta Mayo de 2003.luego Blubank hasta dic.2009
-"GNB Sudameris Bank, S.A.",Oct -   2000,Colombia,1,0,0,Internacional,,cambio de raz¢n social en Abril  2017 antes Helm Bank Panam  S. A. 
+Atlantic Security Bank,Dic -   1984,CaymÂ n,1,0,0,Internacional,,S/C
+"Austrobank Overseas (PanamÂ ), S.A.",Ago -  1995,Ecuador,2,0,0,Internacional,,S/C
+Inteligo Bank Ltd. (4),Ene -  1997,PerÂ£ ,1,0,0,Internacional,,S/C
+ITAU (PanamÂ ) S.A. (21),Abr  -  1998,Brasil,1,0,0,Internacional,,Antes Interbank Overseas Ltd. hasta Mayo de 2003.luego Blubank hasta dic.2009
+"GNB Sudameris Bank, S.A.",Oct -   2000,Colombia,1,0,0,Internacional,,cambio de razÂ¢n social en Abril  2017 antes Helm Bank PanamÂ  S. A. 
 "GTC Bank, Inc.",Jul  -   2001,Guatemala,1,0,0,Internacional,,S/C
-Banco Cr‚dito del Per£,Ago -  2002,Per£ ,1,0,0,Internacional,,S/C
+Banco Crâ€šdito del PerÂ£,Ago -  2002,PerÂ£ ,1,0,0,Internacional,,S/C
 "Bac Bank, INC. ",Feb -  2003,Colombia,1,0,0,Internacional,,S/C
 "TAG BANK, S.A",Feb -  2006,Brasil,1,0,0,Internacional,,S/C
-"BHD International Bank (Panam ), S.A.",Dic -   2006,R. Dominicana,1,0,0,Internacional,,S/C
-"Banco Credit Andorra (Panam ), S. A.",Nov  -  2008,Andorra,1,0,0,Internacional,,S/C
-"ANDBANK (Panam ), S.A",Feb  - 2010,Andorra,1,0,0,Internacional,,S/C
-"Banca Privada D'Andorra,( Panam  ),S.A (13)",Abr -   2010,Andorra,1,0,0,Internacional,,S/C
-"Banco Internacional de Per£, S.A.A. (Interbank)",May -  2010,Per£ ,1,0,0,Internacional,,"Cambio de raz¢n social en marzo  2012 antes Banca Privada D'Andorra, S.A. "
-"PKB Banca Privada (Panam ),S.A.",Sep -  2012,Suiza ,1,0,0,Internacional,,S/C
-"Banco Davivienda Internacional (Panam ), S.A.",Dic.-   2015,Colombia,1,0,0,Internacional,,S/C
+"BHD International Bank (PanamÂ ), S.A.",Dic -   2006,R. Dominicana,1,0,0,Internacional,,S/C
+"Banco Credit Andorra (PanamÂ ), S. A.",Nov  -  2008,Andorra,1,0,0,Internacional,,S/C
+"ANDBANK (PanamÂ ), S.A",Feb  - 2010,Andorra,1,0,0,Internacional,,S/C
+"Banca Privada D'Andorra,( PanamÂ  ),S.A (13)",Abr -   2010,Andorra,1,0,0,Internacional,,S/C
+"Banco Internacional de PerÂ£, S.A.A. (Interbank)",May -  2010,PerÂ£ ,1,0,0,Internacional,,"Cambio de razÂ¢n social en marzo  2012 antes Banca Privada D'Andorra, S.A. "
+"PKB Banca Privada (PanamÂ ),S.A.",Sep -  2012,Suiza ,1,0,0,Internacional,,S/C
+"Banco Davivienda Internacional (PanamÂ ), S.A.",Dic.-   2015,Colombia,1,0,0,Internacional,,S/C
 "BPR BANK, S.A.",Jun -   2016,R. Dominicana,1,0,0,Internacional,,S/C
-"Banco General (Overseas), Inc.",May -  1986,Panam ,1,0,0,,Banco de Representaci¢n,S/C
-Bank Julius Baer & CO. LTD.,Nov  -   2006,Suiza,1,0,0,,Banco de Representaci¢n," Bank Julius Baer & CO. LTD. Absorbi¢ a Merrill Lynch Bank (Suisse), S.A. bajo la resoluci¢n 078-14"
-UBS AG,Mar  -  2007,Suiza,1,0,0,,Banco de Representaci¢n,S/C
-EFG  (Panam ) S.A.,Sept -  2007,Suiza,1,0,0,,Banco de Representaci¢n,S/C
-Commerzbank Representative Office Panam ,Nov -   2007,Alemania,1,0,0,,Banco de Representaci¢n,S/C
-Safra National Bank of New York,Jul -    2008,E.U.A.,1,0,0,,Banco de Representaci¢n,S/C
-"JPMorgan Chase Bank, N.A",Jul  -   2011,E.U.A.,1,0,0,,Banco de Representaci¢n,S/C
-Abanca Corporaci¢n Bancaria S.A., Ago  -  2014,Espa¤a,1,0,0,,Banco de Representaci¢n,S/C
-Lombard Odier & Cie (Bahamas) Ltd.,Mar  -  2013,Suiza,1,0,0,,Banco de Representaci¢n,S/C
-Boslil  Bank Limited,Abr  -  2015,Sta. Lucia,1,0,0,,Banco de Representaci¢n,S/C
-UBS Switzerland AG,Dic -   2015,Suiza,1,0,0,,Banco de Representaci¢n,S/C
-"ES Bank (Panam ), S.A.",Mar -  2002,Portugal,0,0,0,Internacional,Liquidaci¢n Forzosa,Agencias y otros establecimientos: Incluye agencia las cuales se encuentran ubicadas dentro de instalaciones de tercer Centro de Tarjetas; Centro de Pr‚stamos y Autobanco.
-,,,,,,,,
+"Banco General (Overseas), Inc.",May -  1986,PanamÂ ,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+Bank Julius Baer & CO. LTD.,Nov  -   2006,Suiza,1,0,0,,Banco de RepresentaciÂ¢n," Bank Julius Baer & CO. LTD. AbsorbiÂ¢ a Merrill Lynch Bank (Suisse), S.A. bajo la resoluciÂ¢n 078-14"
+UBS AG,Mar  -  2007,Suiza,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+EFG  (PanamÂ ) S.A.,Sept -  2007,Suiza,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+Commerzbank Representative Office PanamÂ ,Nov -   2007,Alemania,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+Safra National Bank of New York,Jul -    2008,E.U.A.,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+"JPMorgan Chase Bank, N.A",Jul  -   2011,E.U.A.,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+Abanca CorporaciÂ¢n Bancaria S.A., Ago  -  2014,EspaÂ¤a,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+Lombard Odier & Cie (Bahamas) Ltd.,Mar  -  2013,Suiza,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+Boslil  Bank Limited,Abr  -  2015,Sta. Lucia,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+UBS Switzerland AG,Dic -   2015,Suiza,1,0,0,,Banco de RepresentaciÂ¢n,S/C
+"ES Bank (PanamÂ ), S.A.",Mar -  2002,Portugal,0,0,0,Internacional,LiquidaciÂ¢n Forzosa,Agencias y otros establecimientos: Incluye agencia las cuales se encuentran ubicadas dentro de instalaciones de tercer Centro de Tarjetas; Centro de Prâ€šstamos y Autobanco.
